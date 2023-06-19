@@ -1,3 +1,6 @@
 [submodule "CS6200"]
 	path = CS6200
 	url = https://github.com/ShihaoYing/cs6200_study_note
+[submodule "CS7646"]
+	path = CS7646
+	url = git@github.com:ShihaoYing/CS7646-Machine-Learning-for-Trading.git
