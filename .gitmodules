@@ -4,6 +4,3 @@
 [submodule "CS7646"]
 	path = CS7646
 	url = git@github.com:ShihaoYing/CS7646-Machine-Learning-for-Trading.git
-[submodule "CS6340"]
-	path = CS6340-Software-Analysis
-	url = git@github.com:ShihaoYing/CS6340-Software-Analysis.git
